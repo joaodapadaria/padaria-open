@@ -1,3 +1,3 @@
 adapter: postgresql
 database: db_name
-pool: 5
+pool: 3
