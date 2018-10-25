@@ -2,6 +2,7 @@ require_relative 'snp'
 require 'pry'
 require 'action_view'
 
+# nice script
 def minus_swap(seq)
   case seq
     when 'A'
